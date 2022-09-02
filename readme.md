@@ -6,6 +6,6 @@ Všechny poznámky na jednom místě obsažené v textových souborech, které p
 </p>
 
 <p align="center" width="100%">
-<img src="Notes\img\nahled.png">
+    <img src="Notes\img\nahled.png">
+    <img src="Notes\img\nahled2.png">
 <p>
-<img src="Notes\img\nahled2.png">
