@@ -1,5 +1,5 @@
 # csharp-notes
-## C# WPF nejvíc basic appka pro poznámka
+## C# WPF nejvíc basic appka pro poznámky
 Sestaveno pro maximální jednoduchost a pohodlnost.
 Všechny poznámky na jednom místě obsažené v textových souborech, které pak můžete samostatně vyndat a použít.
 
