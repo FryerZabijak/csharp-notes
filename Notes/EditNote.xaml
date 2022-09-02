@@ -1,0 +1,17 @@
+﻿<Window x:Class="Notes.EditNote"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Notes"
+        mc:Ignorable="d"
+        Title="Edit Note" Height="495" Width="337" ResizeMode="NoResize" Background="#FF4E5975">
+    <Grid>
+        <Label Content="Název:" HorizontalAlignment="Left" Margin="21,38,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="Textbox_poznamka_nazev" HorizontalAlignment="Left" Margin="71,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" Background="#FF6B799A" Foreground="White"/>
+        <Button x:Name="Button_ulozit" Content="Uložit" HorizontalAlignment="Left" Margin="183,404,0,0" VerticalAlignment="Top" Width="64" Click="Button_ulozit_Click"/>
+        <Button x:Name="Button_zrusit" Content="Zrušit" HorizontalAlignment="Left" Margin="251,404,0,0" VerticalAlignment="Top" Width="64" Click="Button_zrusit_Click"/>
+        <TextBox x:Name="Textbox_poznamka_text" HorizontalAlignment="Center" Margin="0,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="294" Height="317" Background="#FF6B799A" Foreground="White"/>
+
+    </Grid>
+</Window>

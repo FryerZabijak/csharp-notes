@@ -1,0 +1,1 @@
+Tato poznámka slouží jako ukázka ukládání, načítání a zapisování poznámek.
